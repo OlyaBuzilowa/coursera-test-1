@@ -1,6 +1,6 @@
 body {
   font-family: Helvetica;
-  font-size: 12px;
+  font-size: 15px;
   color: black;
 }
 
@@ -52,13 +52,15 @@ span.section-title  {
   width: 30%;
   text-align: center;
 }
-span.is-pink {
-  background-color: pink;
+span.blue {
+  background-color: blue;
+  color: white;
 }
-span.is-red {
+span.red {
   background-color: red;
   color: white;
 }
-span.is-yellow {
-  background-color: yellow;
+span.green {
+  background-color: green;
+  color: white;
 }
